@@ -8,3 +8,8 @@ function keskmine (arv1: number, arv2: number): number{
 	return (arv1+arv2)/2;
 }
 console.log(keskmine(3,4));
+/*
+E:\AnnikaR>npx ts-node f1.ts
+14
+3.5
+*/
